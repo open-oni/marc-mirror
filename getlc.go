@@ -65,7 +65,7 @@ func getMARC(lccn string) {
 	}
 
 	var f *os.File
-	f, err = os.Create(path.Join(lccn, "marc.xml"))
+	f, err = os.Create(path.Join("marc", lccn, "marc.xml"))
 	if err != nil {
 		log.Printf("WARN - Error opening file for writing marc.xml: %s", err)
 		return
