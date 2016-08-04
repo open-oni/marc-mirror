@@ -71,6 +71,7 @@ func getSearchPage(p int) SearchResult {
 	if err != nil {
 		log.Fatalf("Error searching page %d: %s", p, err)
 	}
+	defer response.Body.Close()
 
 	setLastPageRead(p)
 	var buf = &bytes.Buffer{}
