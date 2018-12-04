@@ -1,106 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?>
-  <marc:record>
-    <marc:leader>01373cas a2200373 i 4500</marc:leader>
-    <marc:controlfield tag="001">on1027794759</marc:controlfield>
-    <marc:controlfield tag="003">OCoLC</marc:controlfield>
-    <marc:controlfield tag="005">20180729101824.0</marc:controlfield>
-    <marc:controlfield tag="006">m o d</marc:controlfield>
-    <marc:controlfield tag="007">cr m||||||||||</marc:controlfield>
-    <marc:controlfield tag="008">180307c20079999orusr neo 0 0eng c</marc:controlfield>
-    <marc:datafield tag="010" ind1="" ind2="">
-      <marc:subfield code="a">2018260012</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="040" ind1="" ind2="">
-      <marc:subfield code="a">ORU</marc:subfield>
-      <marc:subfield code="b">eng</marc:subfield>
-      <marc:subfield code="e">rda</marc:subfield>
-      <marc:subfield code="e">pn</marc:subfield>
-      <marc:subfield code="c">ORU</marc:subfield>
-      <marc:subfield code="d">OCLCF</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="035" ind1="" ind2="">
-      <marc:subfield code="a">(OCoLC)1027794759</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="049" ind1="" ind2="">
-      <marc:subfield code="a">ORUM</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="245" ind1="0" ind2="0">
-      <marc:subfield code="a">Vernonia's voice.</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="264" ind1="" ind2="1">
-      <marc:subfield code="a">Vernonia, OR :</marc:subfield>
-      <marc:subfield code="b">Vernonia's Voice, LLC,</marc:subfield>
-      <marc:subfield code="c">2007-</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="300" ind1="" ind2="">
-      <marc:subfield code="a">1 online resource</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="310" ind1="" ind2="">
-      <marc:subfield code="a">Semimonthly</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="336" ind1="" ind2="">
-      <marc:subfield code="a">text</marc:subfield>
-      <marc:subfield code="b">txt</marc:subfield>
-      <marc:subfield code="2">rdacontent</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="336" ind1="" ind2="">
-      <marc:subfield code="a">still image</marc:subfield>
-      <marc:subfield code="b">sti</marc:subfield>
-      <marc:subfield code="2">rdacontent</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="337" ind1="" ind2="">
-      <marc:subfield code="a">computer</marc:subfield>
-      <marc:subfield code="b">c</marc:subfield>
-      <marc:subfield code="2">rdamedia</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="338" ind1="" ind2="">
-      <marc:subfield code="a">online resource</marc:subfield>
-      <marc:subfield code="b">cr</marc:subfield>
-      <marc:subfield code="2">rdacarrier</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="362" ind1="1" ind2="">
-      <marc:subfield code="a">Began in June 2007.</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="500" ind1="" ind2="">
-      <marc:subfield code="a">"Reflecting the spirit of our community".</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="588" ind1="" ind2="">
-      <marc:subfield code="a">Description based on: volume6, issue 1 (january10 2012); title from PDF masthead (publisher's web site, viewed February 5, 2018).</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="588" ind1="" ind2="">
-      <marc:subfield code="a">Latest issue consulted: volume12, issue2 (january18 2018).</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="651" ind1="" ind2="0">
-      <marc:subfield code="a">Vernonia (Or.)</marc:subfield>
-      <marc:subfield code="v">Newspapers.</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="651" ind1="" ind2="7">
-      <marc:subfield code="a">Oregon</marc:subfield>
-      <marc:subfield code="z">Vernonia.</marc:subfield>
-      <marc:subfield code="2">fast</marc:subfield>
-      <marc:subfield code="0">(OCoLC)fst01865129</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="655" ind1="" ind2="7">
-      <marc:subfield code="a">Newspapers.</marc:subfield>
-      <marc:subfield code="2">lcgft</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="655" ind1="" ind2="7">
-      <marc:subfield code="a">Newspapers.</marc:subfield>
-      <marc:subfield code="2">fast</marc:subfield>
-      <marc:subfield code="0">(OCoLC)fst01423814</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="752" ind1="" ind2="">
-      <marc:subfield code="a">United States</marc:subfield>
-      <marc:subfield code="b">Oregon</marc:subfield>
-      <marc:subfield code="c">Columbia</marc:subfield>
-      <marc:subfield code="d">Vernonia.</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="856" ind1="4" ind2="0">
-      <marc:subfield code="3">v.6, issue 1 (Jan. 2012)-v.9, issue 9 (May 7, 2015)</marc:subfield>
-      <marc:subfield code="u">http://www.vernoniasvoice.com/print-archives/</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="994" ind1="" ind2="">
-      <marc:subfield code="a">C0</marc:subfield>
-      <marc:subfield code="b">ORU</marc:subfield>
-    </marc:datafield>
-  </marc:record>
+<record>
+  <leader>01373cas a2200373 i 4500</leader>
+  <controlfield tag="001">on1027794759</controlfield>
+  <controlfield tag="003">OCoLC</controlfield>
+  <controlfield tag="005">20180729101824.0</controlfield>
+  <controlfield tag="006">m o d</controlfield>
+  <controlfield tag="007">cr m||||||||||</controlfield>
+  <controlfield tag="008">180307c20079999orusr neo 0 0eng c</controlfield>
+  <datafield tag="010" ind1="" ind2="">
+    <subfield code="a">2018260012</subfield>
+  </datafield>
+  <datafield tag="040" ind1="" ind2="">
+    <subfield code="a">ORU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="e">pn</subfield>
+    <subfield code="c">ORU</subfield>
+    <subfield code="d">OCLCF</subfield>
+  </datafield>
+  <datafield tag="035" ind1="" ind2="">
+    <subfield code="a">(OCoLC)1027794759</subfield>
+  </datafield>
+  <datafield tag="049" ind1="" ind2="">
+    <subfield code="a">ORUM</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Vernonia's voice.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="" ind2="1">
+    <subfield code="a">Vernonia, OR :</subfield>
+    <subfield code="b">Vernonia's Voice, LLC,</subfield>
+    <subfield code="c">2007-</subfield>
+  </datafield>
+  <datafield tag="300" ind1="" ind2="">
+    <subfield code="a">1 online resource</subfield>
+  </datafield>
+  <datafield tag="310" ind1="" ind2="">
+    <subfield code="a">Semimonthly</subfield>
+  </datafield>
+  <datafield tag="336" ind1="" ind2="">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1="" ind2="">
+    <subfield code="a">still image</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1="" ind2="">
+    <subfield code="a">computer</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1="" ind2="">
+    <subfield code="a">online resource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="1" ind2="">
+    <subfield code="a">Began in June 2007.</subfield>
+  </datafield>
+  <datafield tag="500" ind1="" ind2="">
+    <subfield code="a">"Reflecting the spirit of our community".</subfield>
+  </datafield>
+  <datafield tag="588" ind1="" ind2="">
+    <subfield code="a">Description based on: volume6, issue 1 (january10 2012); title from PDF masthead (publisher's web site, viewed February 5, 2018).</subfield>
+  </datafield>
+  <datafield tag="588" ind1="" ind2="">
+    <subfield code="a">Latest issue consulted: volume12, issue2 (january18 2018).</subfield>
+  </datafield>
+  <datafield tag="651" ind1="" ind2="0">
+    <subfield code="a">Vernonia (Or.)</subfield>
+    <subfield code="v">Newspapers.</subfield>
+  </datafield>
+  <datafield tag="651" ind1="" ind2="7">
+    <subfield code="a">Oregon</subfield>
+    <subfield code="z">Vernonia.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst01865129</subfield>
+  </datafield>
+  <datafield tag="655" ind1="" ind2="7">
+    <subfield code="a">Newspapers.</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="655" ind1="" ind2="7">
+    <subfield code="a">Newspapers.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst01423814</subfield>
+  </datafield>
+  <datafield tag="752" ind1="" ind2="">
+    <subfield code="a">United States</subfield>
+    <subfield code="b">Oregon</subfield>
+    <subfield code="c">Columbia</subfield>
+    <subfield code="d">Vernonia.</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="3">v.6, issue 1 (Jan. 2012)-v.9, issue 9 (May 7, 2015)</subfield>
+    <subfield code="u">http://www.vernoniasvoice.com/print-archives/</subfield>
+  </datafield>
+  <datafield tag="994" ind1="" ind2="">
+    <subfield code="a">C0</subfield>
+    <subfield code="b">ORU</subfield>
+  </datafield>
+</record>
