@@ -1,11 +1,1 @@
-
-<!DOCTYPE html>
-    <html>
-        <head>
-            <title>The page is temporarily unavailable</title>
-        </head>
-    <body>
-         <h1>Chronicling America is currently unavailable</h1>
-             <p>The Chronicling America website is currently offline, undergoing maintenance.  We regret the inconvenience, and invite you to visit other collections available on the Library of Congress website at <a href="http://www.loc.gov">www.loc.gov</a> while we are working to restore service.</p>
-    </body>
-</html>
+<record><leader>00000cas a22000007a 4500</leader><controlfield tag="001">24452162</controlfield><controlfield tag="008">910925d19031911ohuwr ne      0    0eng d</controlfield><datafield ind1=" " ind2=" " tag="010"><subfield code="a">sn 91074524 </subfield></datafield><datafield ind1=" " ind2=" " tag="040"><subfield code="a">ONP</subfield><subfield code="b">eng</subfield><subfield code="c">ONP</subfield><subfield code="d">OCLCQ</subfield></datafield><datafield ind1=" " ind2=" " tag="042"><subfield code="a">msc</subfield></datafield><datafield ind1="0" ind2="4" tag="245"><subfield code="a">The Cedarville record.</subfield></datafield><datafield ind1=" " ind2=" " tag="260"><subfield code="a">Cedarville, Ohio :</subfield><subfield code="b">C. Wright</subfield></datafield><datafield ind1=" " ind2=" " tag="300"><subfield code="a">v.</subfield></datafield><datafield ind1=" " ind2=" " tag="310"><subfield code="a">Weekly</subfield></datafield><datafield ind1="1" ind2=" " tag="362"><subfield code="a">Began in 1903; ceased in 1911.</subfield></datafield><datafield ind1=" " ind2=" " tag="588"><subfield code="a">Description based on: Vol. 6, no. 2 (Mar. 6, 1908).</subfield></datafield><datafield ind1=" " ind2=" " tag="752"><subfield code="a">United States</subfield><subfield code="b">Ohio</subfield><subfield code="c">Greene</subfield><subfield code="d">Cedarville.</subfield></datafield></record>
