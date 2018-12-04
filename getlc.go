@@ -18,7 +18,7 @@ import (
 )
 
 const (
-	Server        = "http://chroniclingamerica.loc.gov/"
+	Server        = "https://chroniclingamerica.loc.gov/"
 	TitlesPattern = "search/titles/results/?format=json&page=%d"
 	MARCPattern   = "lccn/%s/marc.xml"
 )
